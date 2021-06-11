@@ -1,7 +1,7 @@
 .sidebar{
     flex: 1;
     height: calc(100vh - 50px);
-    background-color: #202D3E;
+    /* background-color: #202D3E; */
     position: sticky;
     top: 50px;
     box-shadow:
@@ -12,7 +12,7 @@
 }
 .sidebarWrapper{
     padding: 20px;
-    color: #DF6706;
+    color: #1B162D;
 }
 .sidebarMenu{
     margin-bottom: 10px;

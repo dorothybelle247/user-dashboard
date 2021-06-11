@@ -10,7 +10,8 @@ export default function Topbar() {
     <div className="topbar">
     <div className="topbarWrapper">
         <div className="logo">
-        logo
+        Dragon Finance
+        
         </div>
         <div className="topright">
             <div className="topbarIconContainer">
